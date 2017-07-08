@@ -1,4 +1,4 @@
-# バックアップシェル
+# NC3 & Github issuesバックアップシェル
 
 ## s-nakajima/MyShellへの追加方法
 
